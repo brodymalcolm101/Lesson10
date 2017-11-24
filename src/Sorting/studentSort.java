@@ -18,6 +18,9 @@ public class studentSort extends javax.swing.JFrame {
 
     }
     
+    //Modify to work with iss students
+    // original was only for integers
+    
             ////////////////////////////////////////////////////////////////
     public static void selectionSort(ISSstudent[] a) {
         for (int i = 0; i < a.length - 1; i++) {
